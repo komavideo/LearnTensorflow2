@@ -1,2 +1,18 @@
-# LearnTensorflow2
-从基础学Tensorflow2，中文初学者入门
+从基础学Tensorflow2
+==================
+
+## 视频列表
+
+https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
+
+## 课程详细
+
+01. 自动求导
+
+## 课程文件
+
+https://github.com/komavideo/LearnTensorflow2
+
+## 小马视频频道
+
+http://komavideo.com
