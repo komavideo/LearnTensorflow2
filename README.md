@@ -8,6 +8,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 ## 课程详细
 
 01. 自动求导
+02. 统一数组维度
 
 ## 课程文件
 
