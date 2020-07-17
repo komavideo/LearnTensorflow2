@@ -9,6 +9,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 
 01. 自动求导
 02. 统一数组维度
+03. 定义变量和常量
 
 ## 课程文件
 
