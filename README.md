@@ -7,6 +7,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 
 ## 课程详细
 
+00. 机器(深度)学习开发环境搭建
 01. 自动求导
 02. 统一数组维度
 03. 定义变量和常量
