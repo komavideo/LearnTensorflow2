@@ -13,6 +13,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 03. 定义变量和常量
 04. 变量运行在哪里？CPU or GPU?
 05. 生成数据
+06. 用用均方误差函数 MSE
 
 ## 课程文件
 
