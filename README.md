@@ -14,6 +14,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 04. 变量运行在哪里？CPU or GPU?
 05. 生成数据
 06. 用用均方误差函数 MSE
+07. 浅析Dense层
 
 ## 课程文件
 
