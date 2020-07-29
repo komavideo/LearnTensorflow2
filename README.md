@@ -16,6 +16,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 06. 用用均方误差函数 MSE
 07. 浅析Dense层
 08. 维度变换之reshape
+09. 维度变换之expand_dims, squeeze
 
 ## 课程文件
 
