@@ -17,6 +17,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 07. 浅析Dense层
 08. 维度变换之reshape
 09. 维度变换之expand_dims, squeeze
+10. 数组的合并
 
 ## 课程文件
 
