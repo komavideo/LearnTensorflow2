@@ -19,6 +19,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 09. 维度变换之expand_dims, squeeze
 10. 数组的合并 - tf.concat, tf.stack
 11. 数组的广播 - tf.broadcast_to
+12. 矩阵转置 - transpose
 
 ## 课程文件
 
