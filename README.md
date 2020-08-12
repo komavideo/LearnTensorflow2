@@ -20,6 +20,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 10. 数组的合并 - tf.concat, tf.stack
 11. 数组的广播 - tf.broadcast_to
 12. 矩阵转置 - transpose
+13. 2范数的计算 - tf.norm
 
 ## 课程文件
 
