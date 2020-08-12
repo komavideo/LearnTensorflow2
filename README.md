@@ -21,6 +21,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 11. 数组的广播 - tf.broadcast_to
 12. 矩阵转置 - transpose
 13. 2范数的计算 - tf.norm
+14. 1范数的计算 - tf.norm
 
 ## 课程文件
 
