@@ -22,6 +22,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 12. 矩阵转置 - transpose
 13. 2范数的计算 - tf.norm
 14. 1范数的计算 - tf.norm
+15. 最大最小平均值的计算
 
 ## 课程文件
 
