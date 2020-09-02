@@ -26,6 +26,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 16. 最大最小的索引位置
 17. 数组比较
 18. 张量排序 - tf.sort, tf.argsort
+19. 2维张量排序 - tf.sort, tf.argsort
 
 ## 课程文件
 
