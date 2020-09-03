@@ -27,6 +27,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtWpNNdu65t2ERNbYRsDly0
 17. 数组比较
 18. 张量排序 - tf.sort, tf.argsort
 19. 2维张量排序 - tf.sort, tf.argsort
+20. TopK值取得 - top_k
 
 ## 课程文件
 
